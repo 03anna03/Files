@@ -2,7 +2,7 @@
 #include <conio.h>
 #include <cstdio>
 #include <io.h>
-#include "../../get.h"
+#include "get.h"
 #pragma warning(disable: 4996)
 using namespace std;
 const int SIZE = 81;
